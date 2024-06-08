@@ -1,0 +1,21 @@
+.env
+.venv/
+venv
+
+node_modules
+
+
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+
+# Ignore other unnecessary files
+*.log
+.DS_S   tore
